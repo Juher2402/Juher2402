@@ -1,12 +1,11 @@
 ![logo](https://github.com/codewithkryptora/CodeWithKryptora/blob/main/header_gif.gif)
+
 <h1 align="center">Hi 👋, I'm Juher Khan</h1>
 <h3 align="center">Data Scientist | Data Analyst | Python, Machine Learning, Data Visualization , MySQL, Power BI and MIS| Passionate about Turning Data into Actionable Insights</h3>
 
 <img align="right" alt="Kryptora" width="400" src="https://github.com/codewithkryptora/CodeWithKryptora/blob/main/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juher2402&label=Profile%20views&color=0e75b6&style=flat" alt="juher2402" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juher2402" alt="juher2402" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -32,3 +31,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juher2402&show_icons=true&locale=en" alt="juher2402" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juher2402&" alt="juher2402" /></p>
+
