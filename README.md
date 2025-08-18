@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Juher Khan</h1>
 <h3 align="center">Data Scientist | Data Analyst | Python, Machine Learning, Data Visualization , MySQL, Power BI and MIS| Passionate about Turning Data into Actionable Insights</h3>
 
-<img align="right" alt="Kryptora" width="400" src="https://github.com/codewithkryptora/CodeWithKryptora/blob/main/programmer.gif">
+<img align="right" alt="Kryptora" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2tuZ28wZGd4Y2hha29ka3l1NGk1OHA3NWh5b3cwZmpqNWNqMTg1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juher2402&label=Profile%20views&color=0e75b6&style=flat" alt="juher2402" /> </p>
 
