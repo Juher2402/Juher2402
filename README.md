@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **AI/ML**
 
-- 💬 Ask me about **I am an aspiring Data Scientist with a strong foundation in Python, statistics, and machine learning, eager to apply analytical thinking to solve real-world problems. My academic projects and self-learning have honed my skills in data cleaning, exploratory data analysis, model building, and visualization using tools like Pandas, NumPy, Scikit-learn, and Matplotlib. I thrive on uncovering patterns and trends from complex datasets and presenting them in a way that drives decision-making. As a fresher, I bring curiosity, adaptability, and a commitment to continuous learning in the rapidly evolving field of data science.**
+- 💬 Ask me about **Data Scientist with a strong foundation in Python, statistics, and machine learning, eager to apply analytical thinking to solve real-world problems. My academic projects and self-learning have honed my skills in data cleaning, exploratory data analysis, model building, and visualization using tools like Pandas, NumPy, Scikit-learn, and Matplotlib. I thrive on uncovering patterns and trends from complex datasets and presenting them in a way that drives decision-making. As a fresher, I bring curiosity, adaptability, and a commitment to continuous learning in the rapidly evolving field of data science.**
 
 - 📫 How to reach me **juherkhan86@gmail.com**
 
