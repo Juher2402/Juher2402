@@ -1,7 +1,7 @@
 ![logo](https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTU1MDc0NTksIm5iZiI6MTc1NTUwNzE1OSwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA4MTglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwODE4VDA4NTIzOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQ3YjVkMjVjNzYwZTM5Mzg5M2VmMzg0ZDFjZjc0N2VjNGQzNDU0NWU3MWY5NWUwNGEzMjM3ZWU1MTIzMjNjMjAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.bdgAuYuZNWDN3EKY-5gcrsyMj2Q4e7cVEMAndASTCBw)
 
 <h1 align="center">Hi 👋, I'm Juher Khan</h1>
-<h3 align="center">Data Scientist | Data Analyst | Python, Machine Learning, Data Visualization , MySQL, Power BI and MIS| Passionate about Turning Data into Actionable Insights</h3>
+<h3 align="center">Data Scientist | Data Analyst | Python | Machine Learning | Data Visualization | MySQL | Power BI and MIS | Passionate about Turning Data into Actionable Insights</h3>
 
 <img align="right" alt="Kryptora" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2tuZ28wZGd4Y2hha29ka3l1NGk1OHA3NWh5b3cwZmpqNWNqMTg1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif">
 
